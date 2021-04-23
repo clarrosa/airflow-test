@@ -95,4 +95,4 @@ with DAG(
     )
 
 
-    start_task >> [one_task, two_task, three_task, four_task]
+    start_task >> [one_task, two_task]
