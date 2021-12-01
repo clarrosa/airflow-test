@@ -10,4 +10,4 @@ channel_id = CHANNEL_ID
 
 result = client.chat_postMessage(
 channel=channel_id, 
-text='La cosa está corriendo bien con el pod")
+text='La cosa está corriendo bien con el pod')
